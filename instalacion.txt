@@ -1,0 +1,6 @@
+como se instala:
+1- copia todos los archivos en tu carpeta raiz donde tengas la web.
+2- en el area de admin coloca tus datos de la base de datos mysql y salvar
+3- ahora en instalar
+4- coloca en el archivo index.php del template la siguente linea antes de la etiqueta </body>
+<?php include_once("chatmufb.php") ?>

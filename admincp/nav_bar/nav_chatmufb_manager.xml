@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<nav_master>
+<nav_cat title="Chat estilo Facebook" group="200">
+<nav_option link="index.php?get=chatmufb_manager" group="200">Configurar Chat</nav_option>
+</nav_cat>
+</nav_master>
